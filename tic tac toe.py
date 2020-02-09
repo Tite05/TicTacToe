@@ -1,9 +1,9 @@
 # tkinter Game: Tic Tac Toe
-# Made in Python 3.6
+# Python 3.6
 ########################################
 import sys
 import tkinter as tk
-import tkinter.messagebox as messagebox
+from tkinter import messagebox
 
 ########################################
 
